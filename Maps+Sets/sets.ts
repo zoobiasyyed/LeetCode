@@ -16,7 +16,7 @@ const mySet: Set<any> = new Set(myArray);
 
 //deleting a set
 //mySet.delete(3);
-//console.log(mySet);
+//console.log(mySet);lfkdkkf
 
 //clearing a set (clears the whole set)
 //mySet.clear();
