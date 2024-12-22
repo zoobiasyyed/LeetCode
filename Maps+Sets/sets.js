@@ -13,9 +13,11 @@ var mySet = new Set(myArray);
 //console.log(mySet);
 //deleting a set
 //mySet.delete(3);
-//console.log(mySet);
+//console.log(mySet);lfkdkkf
 //clearing a set (clears the whole set)
 //mySet.clear();
 //console.log(mySet);
 //has: similar to array.includes, checks to see if set has the desired value
-console.log(mySet.has(5));
+//console.log(mySet.has(5));
+//size
+//console.log(mySet.size);
