@@ -9,3 +9,4 @@ function minStartValue(nums: number[]): number {
   startValue = 1 - minSum;
   return startValue;
 }
+//your mom
